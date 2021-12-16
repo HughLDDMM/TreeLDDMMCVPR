@@ -1,0 +1,1 @@
+tensor([4.], device='cuda:1', dtype=torch.float64) : Rigid Iter : 0, total time : 0.06

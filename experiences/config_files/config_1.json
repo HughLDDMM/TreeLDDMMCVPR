@@ -1,0 +1,18 @@
+{
+    "Default": 0,
+    "gamma": 10,
+    "factor": 1,
+    "sigmaV": 50,
+    "sigmaW": [
+        40,
+        20
+        
+    ],
+    "max_iter_steps": [
+        200,
+        200
+        
+    ],
+    "method": "PositionVarifold",
+    "template": 0
+}

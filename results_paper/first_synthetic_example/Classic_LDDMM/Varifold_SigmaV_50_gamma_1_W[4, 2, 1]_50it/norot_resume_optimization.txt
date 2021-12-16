@@ -1,0 +1,3 @@
+tensor([4.], device='cuda:1', dtype=torch.float64) : Diffeo Iter : 102, total time : 84.97
+tensor([2.], device='cuda:1', dtype=torch.float64) : Diffeo Iter : 140, total time : 109.13
+tensor([1.], device='cuda:1', dtype=torch.float64) : Diffeo Iter : 155, total time : 119.19
